@@ -1,0 +1,7 @@
+{
+  "connections": [
+  {"from_port": "8015", "to_port": "8016", "to_ip": "localhost"},
+  {"from_port": "14322", "to_port": "24", "to_ip": "192.168.0.17"},
+  {"from_port": "14323", "to_port": "25", "to_ip": "192.168.0.17"}
+  ]
+}
